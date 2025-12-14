@@ -12,6 +12,8 @@ This artifact examines Ally Financial's comprehensive artificial intelligence st
 - Won 2024 DataIQ AI Awards Grand Prix for AI innovation
 
 **Why This Matters:**
+
+
 This analysis demonstrates how a mid-sized digital bank successfully navigated the challenges of rapid AI adoption while prioritizing security, governance, and customer trust—offering valuable lessons for the broader financial services industry and providing a roadmap for responsible AI implementation that I aim to bring to my future role in data science.
 ---
 
@@ -19,7 +21,6 @@ This analysis demonstrates how a mid-sized digital bank successfully navigated t
 ### 1.1 Industry Context
 
 The financial services industry faces mounting pressure to modernize operations through the use of artificial intelligence. According to recent industry surveys, 96% of executives identify generative AI as a critical boardroom topic, and 47% of technology leaders name AI as their top budget priority. However, adoption remains in its early stages, particularly in highly regulated sectors such as banking, where risks must be carefully managed.
-
 
 ### 1.2 Research Objectives
 
