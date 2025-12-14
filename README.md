@@ -12,7 +12,6 @@ This artifact examines Ally Financial's comprehensive artificial intelligence st
 - Won 2024 DataIQ AI Awards Grand Prix for AI innovation
 
 **Why This Matters:**
-
 This analysis demonstrates how a mid-sized digital bank successfully navigated the challenges of rapid AI adoption while prioritizing security, governance, and customer trust—offering valuable lessons for the broader financial services industry and providing a roadmap for responsible AI implementation that I aim to bring to my future role in data science.
 ---
 
