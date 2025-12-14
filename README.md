@@ -1,6 +1,8 @@
 # Financial-s-AI-Transformation-A-Strategic-Analysis
 ![Ally Financial AI Strategy Cover](ally_artifact_cover.png)
+
 **What Makes This Analysis Unique:**
+
 This artifact examines Ally Financial's comprehensive artificial intelligence strategy, with a focus on its proprietary platform, Ally.ai, and its leadership in responsible AI adoption within the banking sector. As the nation's largest all-digital bank with $196 billion in assets, Ally has positioned itself at the forefront of AI innovation while maintaining stringent governance and ethical standards required in highly regulated financial services.
 
 
@@ -12,7 +14,6 @@ This artifact examines Ally Financial's comprehensive artificial intelligence st
 - Won 2024 DataIQ AI Awards Grand Prix for AI innovation
 
 **Why This Matters:**
-
 
 This analysis demonstrates how a mid-sized digital bank successfully navigated the challenges of rapid AI adoption while prioritizing security, governance, and customer trust—offering valuable lessons for the broader financial services industry and providing a roadmap for responsible AI implementation that I aim to bring to my future role in data science.
 
