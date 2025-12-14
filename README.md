@@ -15,7 +15,6 @@ This artifact examines Ally Financial's comprehensive artificial intelligence st
 
 
 This analysis demonstrates how a mid-sized digital bank successfully navigated the challenges of rapid AI adoption while prioritizing security, governance, and customer trust—offering valuable lessons for the broader financial services industry and providing a roadmap for responsible AI implementation that I aim to bring to my future role in data science.
----
 
 ## Introduction: The Digital Banking Imperative
 ### 1.1 Industry Context
@@ -31,7 +30,7 @@ This artifact analyzes:
 4. Strategic positioning for future AI developments, including autonomous agents
 5. Lessons learned applicable to other financial institutions
 
-###1.3 Ally Financial Profile
+### 1.3 Ally Financial Profile
 
 **Company Overview:**
 
@@ -47,10 +46,10 @@ Ally's competitive advantage stems from its purely digital infrastructure. Unlik
 ## The Ally.ai Platform: Architecture and Capabilities
 ### Technical Architecture
 **Core Design Principles:**
-- **LLM-Agnostic Infrastructure:**Platform built to support multiple large language models
-- **Cloud-Native:**Leverages AWS and Microsoft Azure for scalability
-- **Security-First:**Built-in controls meeting financial services regulatory requirements
-- **Vendor Flexibility:**Ability to integrate new models without platform redesign
+- **LLM-Agnostic Infrastructure:** Platform built to support multiple large language models
+- **Cloud-Native:** Leverages AWS and Microsoft Azure for scalability
+- **Security-First:** Built-in controls meeting financial services regulatory requirements
+- **Vendor Flexibility:** Ability to integrate new models without platform redesign
 - **Current LLM Integrations:**
 - Microsoft Azure OpenAI Service (GPT-3.5 Turbo, GPT-4)
 - Amazon Bedrock (under evaluation, 3-4 month approval process)
